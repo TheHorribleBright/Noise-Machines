@@ -1,11 +1,9 @@
-//*********************************
-//*           RAD Noise           *
-//*  (Random And Digital Noise)   *
-//*                               *
-//*      By Buster Näslund        *
-//*         CC-BY-NC-SA           *
-//*********************************
-
+/**
+     RAD (Random And Digital) Noise
+       By Teknokratik Industries
+             CC-BY-NC-SA
+         Burn bootloader @ 1MHz         
+*/
 int analogin1 = A3;
 int analogin2 = A2;
 int pwmout1 = 0;
